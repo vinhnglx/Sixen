@@ -64,6 +64,7 @@ group :development, :test do
   gem 'spring-commands-rspec'
   gem 'guard'
   gem 'guard-rspec'
+  gem 'annotate'
 end
 
 group :test do
