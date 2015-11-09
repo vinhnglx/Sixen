@@ -1,9 +1,15 @@
 # SIXEN
 
-SIXEN is an open source application collect tweet have hot-keywords on Twitter,
-tweets will be managed by categories.
+SIXEN is an free open source application collect tweets have hot-keywords on Twitter.
 
-The application supports user create table/statistics charts.
+## Development plan
 
-## Development
-...
+- Trello board: link
+
+## Database schema
+
+- Track it here: link
+
+## API documentation
+
+- View it here: link
